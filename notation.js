@@ -31,8 +31,8 @@ for(var i = 0; i < 5; i++) {
 
 // o(n -squared):  is where the performance is directly
 // proportional to the square of the size of the input data set
-// For example the below function has 6 steps, the same amount
-// of numbers that are in the data input
+// For example the below function has 36 steps, the same amount
+// of numbers that are in the data input squared
 
 
 function selectionSort(arr){
